@@ -13,7 +13,7 @@ Fisierul de intrare
 Fișierul de intrare va conține o reprezentare a cutiei sub forma unei matrici.
 
 Simbolurile din matrice sunt:
+  litere sau cifre pentru piese, n grup de litere identice formează o singură piesă, nu avem voie să avem mai multe piese cu aceeași literă;
   "#" pentru bordură;
-  litere sau cifre pentru piese. Un grup de litere identice formează o singură piesă, nu avem voie să avem mai multe piese cu aceeași literă;
   "." pentru spațiile libere;
   "*" pentru piesa specială.
